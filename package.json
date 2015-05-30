@@ -1,0 +1,29 @@
+{
+  "name": "export-files-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Exports files to FS (even in devserver mode)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkuz/export-files-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "file",
+    "export",
+    "devserver"
+  ],
+  "author": "Alexander <alexkuz@gmail.com> (http://kuzya.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexkuz/export-files-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/alexkuz/export-files-webpack-plugin#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
